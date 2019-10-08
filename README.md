@@ -1,5 +1,5 @@
 # 25SOPT-ct-py
-25th with SOPT Algorithm study share repository
+25th with SOPT Algorithm study share repository  
 
 # Repository using rule
 * 한주동안 푼 문제들은 각각의 branch로 commit 합니다.  
@@ -12,6 +12,8 @@
 
 * Pull request 네이밍
 `[신윤재] 1주차 : 1000, 10001`  // 숫자는 백준 문제번호 입니다.  
+
+* PR시 다른 사람이 코드를 읽기 쉽게 code flow를 함께 적어주세요.  
 
 # Participant
 
