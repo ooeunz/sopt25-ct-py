@@ -1,4 +1,4 @@
-# Sopt25-ct-py
+# sopt25-ct-py
 25th with SOPT Algorithm study share repository  
 
 # Repository using rule
