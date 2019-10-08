@@ -12,49 +12,24 @@
 * Pull request 네이밍
 `[신윤재] 1주차 : 1000, 10001`  // 숫자는 백준 문제번호 입니다.
 
-* participant
-| 값 | 의미 | 기본값 |
-|---|:---:|---:|
-| `static` | 유형(기준) 없음 / 배치 불가능 | `static` |
-| `relative` | 요소 자신을 기준으로 배치 |  |
-| `absolute` | 위치 상 부모(조상)요소를 기준으로 배치 |  |
-| `fixed` | 브라우저 창을 기준으로 배치 |  |
+### participant
 
-신윤재 (ooeunz)
-깃헙 : ooeunz
+1. 신윤재 : ooeunz
 
-이소연
-백준 : lsyeon1997
-깃헙 : ujusy
+2. 이소연 : ujusy
 
-3. 김찬영
-백준 : ghkdua1829
-깃헙 : ghkdua1829
+3. 김찬영 :  ghkdua1829
 
-4. 정민
-백준 : tape23
-깃헙 : tape22
+4. 정민 : tape22
 
-5. 양승희
-백준 : 0603yang
-깃헙 : seunghee63
+5. 양승희 : seunghee63
 
-6. 이성은
-백준: sssungeun
-깃헙 : sssungeun
+6. 이성은 : sssungeun
 
-7. 신승민
-백준 : greedy0110
-깃헙 : greedy0110
+7. 신승민 : greedy0110
 
-8. 조예은
-백준 : silvia
-깃헙 : choyeaeun
+8. 조예은 : choyeaeun
 
-9. 민구
-백준 : kangmin1012
-깃헙 : kangmin1012
+9. 강민구 : kangmin1012
 
-10.이소민
-백준: chloe12
-깃헙: chloe73
+10. 이소민 : chloe73
