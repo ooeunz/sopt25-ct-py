@@ -13,9 +13,11 @@
 `[신윤재] 1주차 : 1000, 10001`  // 숫자는 백준 문제번호 입니다.
 
 * participant
-|<center>신윤재</center>|<center>이소연</center>|<center>김찬영</center>|<center>정민</center>|<center>양승희</center>|<center>이성은</center>|<center>신승민</center>|<center>조예은</center>|<center>강민구</center>|<center>이소민</center>|
-|------|---|---|---|---|---|---|---|---|---|
-|ooeunz|ujusy|ghkdua1829|tape22|seunghee63|sssungeun|greedy0110|choyeaeun|kangmin1012|chloe73|
+|  <center>Header1</center> |  <center>Header2</center> |  <center>Header3</center> |
+|:--------|:--------:|--------:|
+|**cell 1x1** | <center>cell 1x2 </center> |*cell 1x3* |
+|**cell 2x1** | <center>cell 2x2 </center> |*cell 2x3* |
+|**cell 3x1** | <center>cell 3x2 </center> |*cell 3x3* |
 
 신윤재 (ooeunz)
 깃헙 : ooeunz
