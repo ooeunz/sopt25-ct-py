@@ -25,6 +25,7 @@ for index in range(len(vps)):
     par = list(input())
     stack = Stack(stack_list)
 
+    # 리스트에서 하나씩 push or pop
     for s in range(len(par)):
         if par[s] == '(':
             stack.push('(')
@@ -35,11 +36,14 @@ for index in range(len(vps)):
                 break
             else:
                 stack.pop()
+
+    # 판단
     if stack == []:
        ans.append('YES')
     else:
         ans.append('NO')
-    
+
+# 결과값 출력 
 for YN in range(len(ans)):
     print(ans[YN])
     
