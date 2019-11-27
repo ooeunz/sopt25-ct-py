@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c9f500bd-fc87-4ccb-9765-dfd27c39cc76" name="Default Changelist" comment="" />
+    <list default="true" id="c9f500bd-fc87-4ccb-9765-dfd27c39cc76" name="Default Changelist" comment="10799_쇠막대기">
+      <change afterPath="$PROJECT_DIR$/9022.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +24,12 @@
   <component name="ProjectId" id="1SGlxJxoi4NYCwX2y3Ayp6veG5P" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -44,7 +53,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1571198058261</updated>
-      <workItem from="1571198062103" duration="652000" />
+      <workItem from="1571198062103" duration="3299000" />
     </task>
     <task id="LOCAL-00001" summary="10799_쇠막대기">
       <created>1571198370334</created>
@@ -53,7 +62,21 @@
       <option name="project" value="LOCAL" />
       <updated>1571198370334</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="10799_쇠막대기">
+      <created>1571199537891</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1571199537891</updated>
+    </task>
+    <task id="LOCAL-00003" summary="10799_쇠막대기">
+      <created>1571199886137</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1571199886137</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
